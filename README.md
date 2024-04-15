@@ -20,4 +20,4 @@ def fun1(numbers):
     
 
 # Sample input
-fun1([6, 7, 8])
+fun1([6, 7, 8, 9])
